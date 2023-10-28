@@ -1,0 +1,15 @@
+vim.opt.number = true -- line numbers
+vim.opt.relativenumber = false -- relative line numbers
+vim.opt.ignorecase = true -- while searching
+vim.opt.splitbelow = true -- splits below current window
+vim.opt.splitright = true -- splits right of current window
+vim.opt.smartindent = true 
+vim.opt.smartcase = true
+vim.opt.undofile = true -- persistent undo
+vim.opt.updatetime = 300 -- just faster
+vim.opt.expandtab = true -- makes tabs to spaces
+vim.opt.shiftwidth = 4 -- spaces for an indent
+vim.opt.tabstop = 4 -- 4 spaces for tab
+vim.opt.cursorline = true -- line under the cursor
+vim.opt.wrap = true -- wraps a line
+vim.opt.guifont = "monospace:h17" -- the font in gui apps
