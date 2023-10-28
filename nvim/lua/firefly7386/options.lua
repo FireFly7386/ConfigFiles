@@ -14,3 +14,4 @@ vim.opt.tabstop = 4 -- 4 spaces for tab
 vim.opt.cursorline = true -- line under the cursor
 vim.opt.wrap = true -- wraps a line
 vim.opt.guifont = "monospace:h17" -- the font in gui apps
+vim.opt.termguicolors = true -- more color support
