@@ -1,6 +1,7 @@
 vim.opt.number = true -- line numbers
 vim.opt.relativenumber = false -- relative line numbers
 vim.opt.ignorecase = true -- while searching
+vim.opt.hlsearch = false
 vim.opt.splitbelow = true -- splits below current window
 vim.opt.splitright = true -- splits right of current window
 vim.opt.smartindent = true 
