@@ -3,4 +3,4 @@ require "firefly7386.keymap"
 require "firefly7386.plugins"
 
 -- set colorscheme
-vim.cmd "colorscheme slate"
+vim.cmd "colorscheme tokyonight"
