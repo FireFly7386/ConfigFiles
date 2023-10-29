@@ -6,7 +6,7 @@ These are config files used in my system for customizable things like neovim/ohm
 ## Requirements
 
 ### NVIM
-neovim
+neovim, a nerdfont (in my case hack)
 
 ### OHMYZSH
 zsh w/ ohmyzsh
